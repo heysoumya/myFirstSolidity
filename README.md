@@ -1,0 +1,2 @@
+# myFirstSolidity
+I tried Solidity.. 
