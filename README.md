@@ -1,2 +1,2 @@
-# myFirstSolidity
+# MyFirstSolidity
 I tried Solidity.. YAAY!!
