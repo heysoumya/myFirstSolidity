@@ -1,2 +1,2 @@
 # myFirstSolidity
-I tried Solidity.. 
+I tried Solidity.. YAAY!!
